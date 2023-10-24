@@ -10,3 +10,4 @@ min_sum_subarray = min(subarrays, key=lambda x: sum(x))
 print("Subarray with least sum of elements:", min_sum_subarray)
 
 print('Hello')
+print('*'*3)
