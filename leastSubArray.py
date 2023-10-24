@@ -8,3 +8,5 @@ subarrays = [original_list[i:i + k] for i in range(len(original_list) - k + 1)]
 min_sum_subarray = min(subarrays, key=lambda x: sum(x))
 
 print("Subarray with least sum of elements:", min_sum_subarray)
+
+print('Hello')
